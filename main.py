@@ -17,7 +17,7 @@ class ModelInput(BaseModel):
 app = FastAPI(title='Profit API', 
               description='''
               genera previsioni di futuri profitti sfruttando il modello. 
-              \n
+              
               Autore Pietro Griolo'''
               )
 
